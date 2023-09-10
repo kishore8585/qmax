@@ -1,0 +1,16 @@
+.card-button{
+    display: flex;
+    justify-content: space-between;
+}
+.delete-icon{
+    cursor:pointer;
+}
+.search-button{
+    display: flex;
+}
+.button1{
+    font-size:35px;
+    margin-top:15px;
+    margin-left:10px;
+    cursor:pointer;
+}
